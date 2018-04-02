@@ -1,0 +1,103 @@
+body {
+    direction: rtl;
+    background-color: #A19F89;
+    border-width: thin;
+    border-color: #FFF690;
+    font-family: sans-serif;
+}
+#container {
+    width: 960px;
+    margin: 0 auto;
+    border-width: thin;
+    border-color: #FFF690;
+    background-position: top;
+    background-image: url('../images/office-supplies-with-computer-notebook-on-white-desk_1357-107.jpg');
+    background-size: cover;
+    line-height: 25px;
+    padding-right: 20px;
+    font-family: sans-serif;
+   
+  
+}
+#open {
+    text-align: right;
+    font-size: 20px;
+    background-color: #ffffffa6;
+    width: 800px;
+    height: 270px;
+    margin: auto;
+}
+#list {
+    list-style-image: url('../images/well-doncce.png');
+
+}
+
+<--.img-fluid. max-width: 100%; -->
+#tofes {
+    margin: 0 auto;
+    width: 960px;
+    display: block;
+    width: 900px;
+    text-align: center;
+    margin: 10px;
+}
+
+}
+label {
+    margin-top: 10px;
+    width: 900px;
+    text-align: center;
+    margin: 10px;
+}
+
+input[type ='text'], input[type ='password'], textarea, select {
+    margin-bottom: 15px;
+    <--background-color: #72A6B2; -->
+    width: 900px;
+    text-align: center;
+    margin: 10px;
+}
+
+input[type ='submit'] {
+    margin-top: 10px;
+    color: white;
+    background-color: cadetblue;
+    align-items: center;
+    text-align: center;
+    margin: 10px;
+    width: 120px;
+    font-size: 25px;
+}
+.Email {
+    display: block;
+    width: 900px;
+    text-align: center;
+    margin: 10px;
+}
+
+.text_box {
+    width: 900px;
+    text-align: center;
+    margin: 10px;
+    background-color: silver;
+}
+
+#Send {
+
+    align-items: center;
+}
+#footer {
+    display: block;
+    
+}
+
+#logo {
+    float: left;
+}
+#hit{
+    float:right;
+    font-family:sans-serif;
+    font-size:20px;
+    margin-top: 80px;
+    color:whitesmoke;
+}
